@@ -325,5 +325,5 @@ If frontend and backend are hosted on separate domains (e.g., `https://frontend.
 
 ## 12. Assessment Submission Details
 
-- **GitHub Repository**: `[PASTE_REPOSITORY_URL_HERE]`
-- **Live Demo**: `[PASTE_LIVE_DEMO_URL_HERE]`
+- **GitHub Repository**: `https://github.com/shivu400/k12-hunar-assessment`
+- **Live Demo**: `https://edtech-crm-wczx.onrender.com`
